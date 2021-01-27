@@ -1,0 +1,8 @@
+# Schedule lights for Science is Everywhere Day
+#
+# Schedule file format:
+# 0 = Sunday
+#
+# min hr dom mon year dow    sequence
+  0   10 29  Apr 2018 *      slow_rainbow
+  0   17 29  Apr 2018 *      lights_off

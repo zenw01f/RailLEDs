@@ -1,0 +1,8 @@
+# Schedule file format:
+# 0 = Sunday
+#
+# min hr dom mon year dow    sequence
+  0   18 *   *   *    1-5    slow_rainbow
+  0   15 *   *   *    6      slow_rainbow
+  0   22 *   *   *    1-6    lights_off
+
